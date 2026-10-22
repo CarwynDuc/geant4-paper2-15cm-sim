@@ -1,0 +1,5 @@
+/control/verbose 2
+/control/execute run_S3_D5_E59p5.mac
+/control/execute run_S3_D5_E662.mac
+/control/execute run_S3_D5_E1173.mac
+/control/execute run_S3_D5_E1333.mac
